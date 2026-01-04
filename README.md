@@ -1,6 +1,3 @@
-# Vector-Todo-AI
-Semantic todo system using vector embeddings, with a tokenizer to explore how text becomes tokens, vectors, and meaning.
-
 # Vector Todo AI
 
 This repository is the starting point for building a **semantic todo system** that treats tasks as meaning, not strings.
